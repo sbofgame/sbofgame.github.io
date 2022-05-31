@@ -253,12 +253,12 @@ $(document).ready(function(){
                 {
                     result: null,
                     correctText: 'Верно!',
-                    wrongText: 'Неверно!<p>Вы&nbsp;не&nbsp;увидите чеклисты уже в&nbsp;июле.</p>'
+                    wrongText: 'Неверно!<p>Физлица подписывают только в&nbsp;СберБанк Онлайн.</p>'
                 },
                 {
                     result: null,
                     correctText: 'Верно!',
-                    wrongText: 'Неверно!<p>Физлица подписывают только в&nbsp;СберБанк Онлайн.</p>'
+                    wrongText: 'Неверно!<p>Вы&nbsp;не&nbsp;увидите чеклисты уже в&nbsp;июле.</p>'
                 },
                 {
                     result: null,
