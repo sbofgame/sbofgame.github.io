@@ -258,7 +258,7 @@ $(document).ready(function(){
                 {
                     result: null,
                     correctText: 'Верно!',
-                    wrongText: 'Неверно!<p>Вы&nbsp;не&nbsp;увидите чеклисты уже в&nbsp;июле.</p>'
+                    wrongText: 'Неверно!<p>Автоматизируем чеклисты уже в&nbsp;июле.</p>'
                 },
                 {
                     result: null,
